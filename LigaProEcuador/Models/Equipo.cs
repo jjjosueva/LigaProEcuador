@@ -21,3 +21,4 @@ namespace LigaProEcuador.Models
 
     }
 }
+/*primer modelo
