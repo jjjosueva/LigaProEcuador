@@ -193,6 +193,7 @@ namespace LigaProEcuador.Migrations
                             NombreEquipo = "Imbabura",
                             Titulos = 0
                         },
+                        
                         new
                         {
                             IdEquipo = 16,
@@ -421,3 +422,4 @@ namespace LigaProEcuador.Migrations
         }
     }
 }
+/*
